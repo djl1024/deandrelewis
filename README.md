@@ -1,4 +1,4 @@
-## Hi, I'm Dre, an IT Professional!
+## Hi, I'm Dre, an IT Professional! ☺️
 
 <!--
 **djl1024/djl1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
