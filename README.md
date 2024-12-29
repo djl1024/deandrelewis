@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/djl1024/ad-deploy-config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/djl1024/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/djl1024/network-file-share-permission)
-  - [Building Intuition for DNS](https://github.com/djl1024/azure-network-protocols)
+  - [Building Intuition for DNS](https://github.com/djl1024/build-dns-intuition)
 
 
 <h2>🤳Connect with me:</h2>
