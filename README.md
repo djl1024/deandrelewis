@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/djl1024/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/djl1024/osticket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/djl1024/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/djl1024/ad-deploy-config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/djl1024/azure-network-protocols)
 - <b>Virtual Private Network (VPN)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/djl1024/configure-ad)
