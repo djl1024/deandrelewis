@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/djl1024/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/djl1024/network-file-share-permission)
   - [Building Intuition for DNS](https://github.com/djl1024/build-dns-intuition)
-  - - <b>Amazon Web Services)</b>
+- <b>Amazon Web Services)</b>
   - [Deploying a Dynamic Website on AWS](https://github.com/djl1024/osticket-prereqs)
 
 
