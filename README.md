@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/djl1024/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/djl1024/osticket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/djl1024/ad-deploy-config)
+  - [Deployment and Configuration of Local Active Directory within Azure VMs](https://github.com/djl1024/ad-deploy-config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/djl1024/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/djl1024/network-file-share-permission)
   - [Building Intuition for DNS](https://github.com/djl1024/build-dns-intuition)
