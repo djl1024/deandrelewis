@@ -1,4 +1,4 @@
-## Hi, I'm Dre, an IT Professional! ☺️
+## Hi, I'm Dre, an aspiring IT Professional! ☺️
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -6,8 +6,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/djl1024/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/djl1024/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/djl1024/osticket-ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Virtual Private Networks (VPNs)</b>
   - [ProtonVPN Deployment, Exploration Within Local Azure Virtual Machine](https://github.com/djl1024/vpn-setup-explore)
+- <b>Microsoft Azure</b>
   - [Deployment and Configuration of Local Active Directory within Azure VMs](https://github.com/djl1024/ad-deploy-config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/djl1024/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/djl1024/network-file-share-permission)
