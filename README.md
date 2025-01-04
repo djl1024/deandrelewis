@@ -1,20 +1,20 @@
 ## Hi, I'm Dre, an aspiring IT Professional! ☺️
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h3>👨‍💻 Information Technology Projects:</h3>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/djl1024/osticket-prereqs)
+  - [osTicket: Prerequisites & Installation](https://github.com/djl1024/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/djl1024/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/djl1024/osticket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Local Active Directory Deployment, Configuration within Azure VMs](https://github.com/djl1024/ad-deploy-config)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/djl1024/azure-network-protocols)
-  - [Network File Shares and Permissions](https://github.com/djl1024/network-file-share-permission)
-  - [Building Intuition for DNS](https://github.com/djl1024/build-dns-intuition)
+  - [Network Security Groups (NSGs) & Network Protocols Inspection](https://github.com/djl1024/azure-network-protocols)
+  - [Network File Shares & Permissions](https://github.com/djl1024/network-file-share-permission)
+  - [DNS Intuition Building](https://github.com/djl1024/build-dns-intuition)
 - <b>Virtual Private Networks (VPNs)</b>
   - [ProtonVPN Deployment, Exploration Within Local Azure Virtual Machine](https://github.com/djl1024/vpn-setup-explore)
 - <b>Amazon Web Services</b>
-  - [Deploying a Dynamic Website on AWS](https://github.com/djl1024/aws-site-deploy)
+  - [(AWS) Dynamic Website Deployment](https://github.com/djl1024/aws-site-deploy)
 
 
 <!--
